@@ -5,7 +5,6 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"github.com/zeelink-tech/xneuron-plugin-sdk-go/proto"
 	"google.golang.org/grpc"
-	"plugin"
 )
 
 // Handshake is a common handshake that is shared by plugin and host.
